@@ -77,7 +77,7 @@ namespace JogoDado
 
             if(ptjogador1 == 2)
             {
-                MessageBox.Show("Jogador 1 venceu!");
+                MessageBox.Show("Jogador 1 venceu!!");
                 LimparVariaveis();
             }
             else if(ptjogador2 == 2)
